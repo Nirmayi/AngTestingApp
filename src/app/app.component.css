@@ -1,44 +1,4 @@
-h1
+.active
 {
-    text-align: center;
-    color: Black;
-}
-
-img{
-    width: 400px;
-    display: block;
-    margin: auto;
-}
-
-ul
-{
-    list-style: inside;
-}
-
-
-
-.accordion
-{
-    width: 100%;
-    text-align: center;
-    justify-content: center;
-}
-
-.btn
-{
-    background-color: cadetblue;
-    color: wheat;
-    border: 3px;
-    border-color: crimson;
-}
-
-
-h1
-{
-    font-size: 50px;
-}
-
-p
-{
-    font-size: 30px;
+    font-weight: bold ;
 }

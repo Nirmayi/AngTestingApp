@@ -1,15 +1,25 @@
-import { Component, OnInit } from '@angular/core';
+
+import { Component, EventEmitter, Input, Output} from '@angular/core';
+import { Product } from '../models/product.model';
 
 @Component({
   selector: 'app-product-details',
   templateUrl: './product-details.component.html',
   styleUrls: ['./product-details.component.css']
 })
-export class ProductDetailsComponent implements OnInit {
+export class ProductDetailsComponent {
 
-  constructor() { }
+  //to recieve data from parent ad Input
+  @Input() productObj: Product;
 
-  ngOnInit(): void {
+  //create a custom event
+  @Output() myEvent=new EventEmitter()
+
+
+
+  sendProductDetailsToParent(nailColor)
+   //emit data to parent
+  {
+    this.myEvent.emit(nailColor);
   }
-
 }

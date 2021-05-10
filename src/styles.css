@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+
+body
+{
+    background-image: url("https://i.pinimg.com/originals/4f/39/10/4f39103da156fb7e479abd6355932e88.jpg");
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
