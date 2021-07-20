@@ -1,0 +1,32 @@
+ [
+  {
+    "productTitle": "OnePlus",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore amet dolor iusto",
+    "productImage": "https://m.media-amazon.com/images/I/51e6q1V73wL.jpg"
+  },
+  {
+    "productTitle": "Philips",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore amet dolor iusto",
+    "productImage": "https://www.jungle.lk/wp-content/uploads/2019/11/Philips-6700-Series-4K-Ultra-Slim-Smart-LED-TV-164-cm-4K-Ultra-HD-Quad-Core-65PUT6703-98.jpg"
+  },
+  {
+    "productTitle": "RealMe",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore amet dolor iusto",
+    "productImage": "https://rukminim1.flixcart.com/image/312/312/kae95e80/television/f/6/y/realme-tv-32-original-imafrz79pweqeafh.jpeg?q=70"
+  },
+  {
+    "productTitle": "Sony",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore amet dolor iusto",
+    "productImage": "https://www.sony.co.in/image/e88e9f967ada71eae84a2212812c788f?fmt=pjpeg&bgcolor=FFFFFF&bgc=FFFFFF&wid=2515&hei=1320"
+  },
+  {
+    "productTitle": "LG",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore amet dolor iusto",
+    "productImage": "https://www.lg.com/in/images/tvs/md05994078/gallery/1_1100x730.jpg"
+  },
+  {
+    "productTitle": "Samsung",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore amet dolor iusto",
+    "productImage": "https://images.samsung.com/is/image/samsung/in-fhdtv-n5200-ua32n5200arxxl-frontblack-184404442?$720_576_PNG$"
+  }
+]

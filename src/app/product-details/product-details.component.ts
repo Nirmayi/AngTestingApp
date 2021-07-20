@@ -1,5 +1,5 @@
+import { Component, Input, EventEmitter, Output} from '@angular/core';
 
-import { Component, EventEmitter, Input, Output} from '@angular/core';
 import { Product } from '../models/product.model';
 
 @Component({
@@ -7,19 +7,19 @@ import { Product } from '../models/product.model';
   templateUrl: './product-details.component.html',
   styleUrls: ['./product-details.component.css']
 })
-export class ProductDetailsComponent {
+export class ProductDetailsComponent  {
 
-  //to recieve data from parent ad Input
-  @Input() productObj: Product;
+  //to receive data from parent as input
+  @Input() productObj:Product;
 
   //create a custom event
-  @Output() myEvent=new EventEmitter()
+  @Output() myEvent=new EventEmitter();
 
 
-
-  sendProductDetailsToParent(nailColor)
-   //emit data to parent
-  {
-    this.myEvent.emit(nailColor);
+  sendProductDetailsToParent(productTitle){
+      //emit data to parent
+      this.myEvent.emit(productTitle);
   }
+
+
 }

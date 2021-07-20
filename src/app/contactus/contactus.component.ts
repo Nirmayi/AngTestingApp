@@ -7,6 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ContactusComponent implements OnInit {
 
+  //inject data servive obj
   constructor() { }
 
   ngOnInit(): void {

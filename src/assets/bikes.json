@@ -1,0 +1,32 @@
+ [
+  {
+    "productTitle": "Husqvarna",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore amet dolor iusto",
+    "productImage": "https://media.zigcdn.com/media/model/2020/Feb/husqvarna-svartpilen-250-right-side-view_360x240.jpg"
+  },
+  {
+    "productTitle": "Honda Hornet",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore amet dolor iusto",
+    "productImage": "https://images.financialexpress.com/2020/10/Honda-Hornet-2.0-real-1200.jpg?w=692"
+  },
+  {
+    "productTitle": "Off-Road",
+    "description": "https://i.pinimg.com/originals/1c/e5/a1/1ce5a185ff69d26b5a0fda39ed60581c.jpg",
+    "productImage": "https://www.drivespark.com/bikes-photos/models/450x350/himalayan_1515500036.jpg/3/x.pagespeed.ic.hVB0G7CTSj.jpg"
+  },
+  {
+    "productTitle": "Triumph",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore amet dolor iusto",
+    "productImage": "https://www.outlookindia.com/public/uploads/editor/2019-05-27/1558949573.jpg"
+  },
+  {
+    "productTitle": "Yamaha",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore amet dolor iusto",
+    "productImage": "https://www.rashgear.com/wp-content/uploads/2020/10/Yamaha-Upcoming-Bikes-Upcoming-Electric-Bike-in-2021-Image-Rashgear.png"
+  },
+  {
+    "productTitle": "Bajaj",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore amet dolor iusto",
+    "productImage": "https://imgd.aeplcdn.com/310x174/bw/models/bajaj-avenger-street-160-bs-vi20200211171236.jpg?q=75"
+  }
+]

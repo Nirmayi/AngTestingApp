@@ -1,0 +1,20 @@
+.row
+{
+    background-image: url("https://i2.wp.com/antiguadailyphoto.com/wp-content/uploads/2007/01/280951366_2f1f1cbb62.jpg?resize=500%2C375");
+    background-size: 100% 100%;
+    background-attachment: fixed;
+
+}
+
+.card
+{
+    background-image: url("https://d1uqii9w4uahg1.cloudfront.net/cdn/x/x@d2d8131149/smss52/smsimg30/pv/isignstockcontributors/iss_15213_05934.jpg");
+    background-size: 50%;
+    background-attachment: fixed;
+
+}
+
+img
+{
+    box-shadow: 2px 2px 2px white;
+}

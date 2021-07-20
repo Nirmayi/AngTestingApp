@@ -1,5 +1,5 @@
 export interface Product{
-    nailColor:string;
+    productTitle:string;
     description:string;
-    nailImage:string
+    productImage:string
 }

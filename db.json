@@ -1,0 +1,144 @@
+{
+   "women_of_industry":[
+      {
+         "id":1,
+         "email":"taylor.swift@example.com",
+         "name":"Taylor Swift",
+         "profilePic":"https://pbs.twimg.com/media/EygPE2jW8AMtsex.jpg",
+         "address":{
+            "street":"Tenessed",
+            "suite":"Apt. 556",
+            "city":"Nashville",
+            "zipcode":"987654321"
+         },
+         "profession":"actor, singer, business woman, song-writer",
+         "mobileno":"123456789"
+      },
+      {
+         "id":2,
+         "email":"ariana.grande@example.com",
+         "name":"Ariana Grande",
+         "profilePic":"https://pyxis.nymag.com/v1/imgs/81f/0c7/b9358fa070f44679c4fc55823d2a1b8de4-ariana-grande.rsquare.w1200.jpg",
+         "address":{
+            "street":"Tenessed",
+            "suite":"Apt. 556",
+            "city":"Nashville",
+            "zipcode":"987654321"
+         },
+         "profession":"singer, producer, song-writer, actor",
+         "mobileno":"123456789"
+      },
+      {
+         "id":3,
+         "email":"lana.rey@example.com",
+         "name":"Lana Del Rey",
+         "profilePic":"https://pyxis.nymag.com/v1/imgs/e7b/f6e/d9e9e222715822d3e90465dc5ce179b2d8-lana-del-rey.rsquare.w1200.jpg",
+         "address":{
+            "street":"Tenessed",
+            "suite":"Apt. 556",
+            "city":"Nashville",
+            "zipcode":"987654321"
+         },
+         "profession":"singer, producer, song-writer",
+         "mobileno":"123456789"
+      },
+      {
+         "id":4,
+         "email":"selena.gomez@example.com",
+         "name":"Selena Gomez",
+         "profilePic":"https://akns-images.eonline.com/eol_images/Entire_Site/20201117/rs_1200x1200-201217093536-1200-Selena-Gomez.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
+         "address":{
+            "street":"Tenessed",
+            "suite":"Apt. 556",
+            "city":"Nashville",
+            "zipcode":"987654321"
+         },
+         "profession":"actor, singer, producer",
+         "mobileno":"123456789"
+      },
+      {
+         "id":5,
+         "email":"miley.cyrus@example.com",
+         "name":"Miley Cyrus ",
+         "profilePic":"https://akns-images.eonline.com/eol_images/Entire_Site/202139/rs_1200x1200-210409114912-1200-miley-cyrus-tom-ford.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
+         "address":{
+            "street":"Tenessed",
+            "suite":"Apt. 556",
+            "city":"Nashville",
+            "zipcode":"987654321"
+         },
+         "profession":"actor, singer, producer",
+         "mobileno":"123456789"
+      },
+      {
+         "id":6,
+         "email":"katy.perry@example.com",
+         "name":"Katy Perry",
+         "profilePic":"https://akns-images.eonline.com/eol_images/Entire_Site/2021315/rs_1200x1200-210415052215-1200-Katy-Perry.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
+         "address":{
+            "street":"Tenessed",
+            "suite":"Apt. 556",
+            "city":"Nashville",
+            "zipcode":"987654321"
+         },
+         "profession":"singer, producer, song-writer, host",
+         "mobileno":"123456789"
+      },
+      {
+         "id":7,
+         "email":"beyonce@example.com",
+         "name":"Beyonce",
+         "profilePic":"https://pyxis.nymag.com/v1/imgs/ee0/bcc/a712e468e4e799b7e30609c5ffacf252ff-beyonce.rsquare.w1200.jpg",
+         "address":{
+            "street":"Tenessed",
+            "suite":"Apt. 556",
+            "city":"Nashville",
+            "zipcode":"987654321"
+         },
+         "profession":"singer, producer, song-writer, host, vocal-actor",
+         "mobileno":"123456789"
+      },
+      {
+         "id":8,
+         "email":"rihanna@example.com",
+         "name":"Rihanna",
+         "profilePic":"https://pyxis.nymag.com/v1/imgs/225/9d1/709c4e93316736d3272d5aaef10d8e7473-rihanna.rsquare.w1200.jpg",
+         "address":{
+            "street":"Tenessed",
+            "suite":"Apt. 556",
+            "city":"Nashville",
+            "zipcode":"987654321"
+         },
+         "profession":"singer, producer, song-writer, host, vocal-actor",
+         "mobileno":"123456789"
+      },
+      {
+         "id":9,
+         "email":"halsey@example.com",
+         "name":"Halsey",
+         "profilePic":"https://popularbio.com/wp-content/uploads/2020/05/Halsey-1200x1200.jpg",
+         "address":{
+            "street":"Tenessed",
+            "suite":"Apt. 556",
+            "city":"Nashville",
+            "zipcode":"987654321"
+         },
+         "profession":"singer-songwriter",
+         "mobileno":"123456789"
+      },
+      {
+         "id":10,
+         "email":"dua.lipa@example.com",
+         "name":"Dua Lipa",
+         "profilePic":"https://pyxis.nymag.com/v1/imgs/361/a10/c221c8c5043de2eac616a2c7b38533ec0a-dua-lipa.rsquare.w1200.jpg",
+         "address":{
+            "street":"Tenessed",
+            "suite":"Apt. 556",
+            "city":"Nashville",
+            "zipcode":"987654321"
+         },
+         "profession":"singer-songwriter",
+         "mobileno":"123456789"
+      }
+   ]
+}
